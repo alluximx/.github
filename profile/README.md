@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🙋‍♀️ We're Alluxi, a software shop focused on crafting beautiful and performant software products.
+
+🧙 While you're around don't forget to checkout our [Contribution Guidelines]([https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/alluximx/alluxi-guides))
+
 <!--
 
 **Here are some ideas to get you started:**
