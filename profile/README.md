@@ -2,7 +2,7 @@
 
 🙋‍♀️ We're Alluxi, a software shop focused on crafting beautiful and performant software products.
 
-🧙 While you're around don't forget to checkout our [Contribution Guidelines](https://github.com/alluximx/alluxi-guides)
+🧙 While you're around don't forget to check out our [Contribution Guidelines](https://github.com/alluximx/alluxi-guides)
 
 <!--
 
