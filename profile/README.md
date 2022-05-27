@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ We're Alluxi, a software shop focused on crafting beautiful and performant software products.
+🙋‍♀️ We're Alluxi, a software shop focused on crafting beautiful and performant technology products.
 
 🧙 While you're around don't forget to check out our [Contribution Guidelines](https://github.com/alluximx/alluxi-guides)
 
