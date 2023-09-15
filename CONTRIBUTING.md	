@@ -1,0 +1,53 @@
+# Contributing to Alluxi Software Agency Projects
+
+First off, thank you for considering contributing to Alluxi's projects. Your time and expertise can greatly help us maintain and improve our software solutions.
+
+## Table of Contents
+
+- [Code of Conduct](#code-of-conduct)
+- [How Can I Contribute?](#how-can-i-contribute)
+  - [Reporting Bugs](#reporting-bugs)
+  - [Suggesting Features](#suggesting-features)
+  - [Pull Requests](#pull-requests)
+- [Development Guidelines](#development-guidelines)
+  - [Coding Style](#coding-style)
+  - [Testing](#testing)
+
+## Code of Conduct
+
+Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## How Can I Contribute?
+
+### Reporting Bugs
+
+1. **Check Existing Issues** - Take a moment to go through existing issues to avoid duplicates.
+2. **Use the Bug Report Template** - When opening a new issue, please use the bug report template provided.
+3. **Provide Complete Information** - The more information you provide, the easier it is for us to validate the issue and resolve it.
+
+### Suggesting Features
+
+1. **Check Existing Issues** - Check if someone else has already suggested the feature.
+2. **Use the Feature Request Template** - If the feature hasn't been requested yet, use the feature request template to suggest it.
+
+### Pull Requests
+
+1. **Fork the Repository** - Fork the target repository and clone it to your local machine.
+2. **Create a Branch** - Create a branch to house your changes.
+3. **Commit Your Changes** - Make your changes and commit them with a meaningful commit message.
+4. **Push to Origin** - Push your changes to your fork on GitHub.
+5. **Open a Pull Request** - Open a PR from your forked repository to the original repository.
+
+## Development Guidelines
+
+### Coding Style
+
+Please adhere to the coding style guidelines detailed in our [Style Guide](STYLE_GUIDE.md).
+
+### Testing
+
+Ensure that your code passes all tests before submitting a pull request.
+
+---
+
+Thank you for contributing to Alluxi projects!

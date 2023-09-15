@@ -1,56 +1,45 @@
-## Related Tickets & Documents
-- [EXAMPLE-123](https://alluxi.atlassian.net/)
+---
+name: 🐛 Bug Report
+about: Create a report to help us improve
+labels: bug
 
-## What type of PR is this? (check all applicable)
-<!-- Put "x" to mark a checkbox. -->
-- [ ] Refactor
-- [ ] Feature
-- [ ] Bug Fix
-- [ ] Optimization
-- [ ] Documentation Update
+---
 
-## Description
-Example
+## 🐛 Bug Report
 
-## QA Instructions
-1. Example
-2. Example
+### Prerequisites
 
+- [ ] I have searched for similar issues in both open and closed tickets and cannot find a duplicate.
+- [ ] I have read the documentation and know that this feature is not provided out-of-the-box.
 
-<!-- Frontend section. Remove it if not applicable. -->
-### UI design: Screens & Previews
-<!-- Type: Desktop or Mobile -->
-### [Desktop] Screen name example
-#### 🖼️ Preview
-<!-- Your preview here -->
-<!-- Add more screens here -->
+### Description
 
-<!-- Backend section. Remove it if not applicable. -->
-### Endpoints: Payloads & Responses
-<!--Type of endpoint: POST, GET, PUT, PATCH, DELETE. -->
-### [POST] Endpoint name example
-<!-- Remove payload if not applicable -->
-#### ⬆️ Payload
-```json
-  {
-      "Example": true
-  }
-```
+[A clear and concise description of the bug.]
 
-#### ✅ Success response
-```json
-  {
-      "Example": true
-  }
-```
+### Steps to Reproduce
 
-#### ❌ Failure response
-```json
-  {
-      "detail": false
-  }
-```
-<!-- Add more endpoints here -->
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
 
-## [Optional] Are there any post deployment tasks we need to perform?
-- Example
+### Expected Behavior
+
+[A clear and concise description of what you expected to happen.]
+
+### Actual Behavior
+
+[A clear and concise description of what actually happened.]
+
+### Screenshots
+
+[If applicable, add screenshots to help explain your problem.]
+
+### Environment
+
+- OS: [e.g. iOS]
+- Browser: [e.g. Chrome, Safari]
+- Version: [e.g. 22]
+
+### Additional Context
+
+[Add any other context about the problem here.]
